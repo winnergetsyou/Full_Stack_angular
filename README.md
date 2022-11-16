@@ -20,7 +20,7 @@ ngModel
 Service ---> Component  ----> Views 
 
 
-# Nest framework in NODE JS [MVC]
+# Nest framework in NODE JS 
 
 - app.Controller.ts
 
