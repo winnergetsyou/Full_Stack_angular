@@ -7,11 +7,13 @@ ORM--->MangoDB
 
 - component.ts --> Component
 
+- Module.ts 
+
+- service.ts
+
 - component.html ---> Views
 
 - component.css
-
-- Module.ts 
 
 ngModel
 
@@ -20,12 +22,13 @@ Service ---> Component  ----> Views
 
 # Nest framework in NODE JS [MVC]
 
-- Controller
+- app.Controller.ts
 
-- Views 
+- app.Module.ts
 
-- Models
+- app.Service.ts
 
+Nest js has same structure as angular js
 
 DATABASE --> web application controller ---> Angular service ----> Angular component ----> Angular View
 
