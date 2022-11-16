@@ -1,4 +1,4 @@
-# Full_Stack_angular
+# SOLO LEARN Full_Stack_DEVELOPER angular+nest+mangodb Practice 
 SOLO-LEARN_COURSE--> angular--> nestjs-->Type
 ORM--->MangoDB
 
